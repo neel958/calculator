@@ -6,40 +6,31 @@ This project is a simple calculator built using React. It provides all the basic
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division.
 - Clear and reset functionality.
-- Responsive design for use on different screen sizes.
+- Delete last digit.
 
 ## Installation
 
 To get started with the project, clone the repository and run the following command to install all dependencies:
 
-\`\`\`bash
-npm install
-\`\`\`
+`npm install`
 
 ## Usage
 
 To start the project, run the following command:
 
-\`\`\`bash
-npm start
-\`\`\`
+`npm start`
 
 This will launch the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view the calculator in your browser.
 
 The app will reload automatically if you make any edits. You can also see any lint errors in the console.
 
-## Build
-
-To create a production build of the app, run:
-
-\`\`\`bash
-npm run build
-\`\`\`
-
-This will bundle the app for production, optimizing it for better performance.
 
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
 - **JavaScript (ES6+)**: The main programming language used.
 - **HTML/CSS**: For structuring and styling the UI.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE)
