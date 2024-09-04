@@ -149,7 +149,7 @@ export default function App() {
   const [{ currentOperand, previousOperand, operation }, dispatch] = useReducer(
     reducer,
     { initialState }
-  );
+  )
 
   return (
     <div className="calculatrice">
