@@ -193,4 +193,3 @@ export default function App() {
   );
 }
 
-//dispatch({type: ACTIONS.ADD_DIGIT, payload: {digit : 1}})
